@@ -1,0 +1,127 @@
+# ==============================
+
+# Core Scientific Libraries
+
+# ==============================
+
+ipykernel
+
+numpy
+pandas
+scipy
+
+# ==============================
+
+# Visualization
+
+# ==============================
+
+matplotlib
+seaborn
+plotly
+cufflinks
+
+# ==============================
+
+# Machine Learning
+
+# ==============================
+
+scikit-learn
+xgboost
+lightgbm
+catboost
+
+# ==============================
+
+# Deep Learning
+
+# ==============================
+
+torch
+torchvision
+torchaudio
+tensorflow
+keras
+
+# ==============================
+
+# Data Handling
+
+# ==============================
+
+openpyxl
+xlrd
+pyarrow
+
+# ==============================
+
+# Statistics
+
+# ==============================
+
+statsmodels
+
+# ==============================
+
+# Computer Vision
+
+# ==============================
+
+opencv-python
+Pillow
+scikit-image
+
+# ==============================
+
+# NLP
+
+# ==============================
+
+nltk
+spacy
+gensim
+
+# ==============================
+
+# Notebook / Development
+
+# ==============================
+
+jupyter
+notebook
+ipykernel
+
+# ==============================
+
+# Utility Libraries
+
+# ==============================
+
+tqdm
+requests
+beautifulsoup4
+python-dotenv
+
+# ==============================
+
+# Model Persistence
+
+# ==============================
+
+joblib
+pickle5
+
+# ==============================
+
+# Experiment Tracking
+
+# ==============================
+
+mlflow
+
+
+python -m venv venv
+venv\Scripts\activate
+pip install -r requirements.txt
+in project: ..\..\venv\ml_env\Scripts\activate
