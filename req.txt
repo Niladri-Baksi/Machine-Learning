@@ -121,7 +121,7 @@ pickle5
 mlflow
 
 
-python -m venv venv
+python -m venv ml_env
 venv\Scripts\activate
 pip install -r requirements.txt
 in project: ..\..\venv\ml_env\Scripts\activate
