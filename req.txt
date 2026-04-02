@@ -125,3 +125,56 @@ python -m venv ml_env
 venv\Scripts\activate
 pip install -r requirements.txt
 in project: ..\..\venv\ml_env\Scripts\activate
+
+
+
+numpy
+pandas
+matplotlib
+scikit-learn
+tensorflow
+torch
+torchvision
+opencv-python
+Pillow
+tqdm
+transformers
+datasets
+
+
+
+# Core
+numpy
+pandas
+
+# Deep Learning
+tensorflow
+keras
+torch
+torchvision
+torchaudio
+
+# Visualization
+matplotlib
+seaborn
+
+# Jupyter / Dev
+notebook
+ipykernel
+
+# ML utilities
+scikit-learn
+
+# Image processing
+opencv-python
+Pillow
+
+# Progress bars / utils
+tqdm
+
+# HuggingFace (for transformers later)
+transformers
+datasets
+
+# Optional but useful
+scipy
